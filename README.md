@@ -37,4 +37,4 @@ Los dos valores son públicos por diseño y no son claves secretas.
 - Formulario con honeypot, trampa de tiempo, límite de envíos y filtro de enlaces.
 - Sin claves ni secretos en el código.
 
-Hecho a mano con HTML, CSS y JavaScript, sin frameworks.
+Hecho a mano con HTML, CSS y JavaScript, sin frameworks. Última publicación: 20/10/2026.
